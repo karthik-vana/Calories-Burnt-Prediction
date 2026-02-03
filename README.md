@@ -1,4 +1,5 @@
-# 🔥 Calories Burnt Prediction
+# 🔥 Calories Burnt Prediction 
+
 
 A Machine Learning project that predicts the number of calories burnt during exercise based on user's physical characteristics and workout intensity.
 
@@ -6,6 +7,19 @@ A Machine Learning project that predicts the number of calories burnt during exe
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3+-orange.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+---
+# Calories Burnt Prediction 🔥
+
+This app predicts calories burnt based on your activity data.
+
+## 🚀 Live Demo
+👉 [Click Here to Try](https://calories-burnt-prediction-1.streamlit.app/)
+
+Or scan the QR code below:
+
+[![Demo QR](karthik-vana.png)
+
 
 ## 📊 Project Overview
 
@@ -192,6 +206,28 @@ This project is open source and available under the [MIT License](LICENSE).
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+---
+<div align="center">
+
+## 👨‍💻 Created By
+
+### Karthik Vana
+
+**Data Science Enthusiast | Machine Learning Engineer | AI Engineer**
+
+*Building practical ML solutions for real-world problems*
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthik-vana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-vana/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](karthikvana236@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-v-smoky.vercel.app/)
+
+## 💼 Open to Data Science & ML opportunities
+
+**Made with ❤️ and Python**
+
+*Last Updated: December 2025*
+<div></div> 
 ## 📞 Contact
 
 If you have any questions or suggestions, feel free to open an issue!
