@@ -18,7 +18,8 @@ This app predicts calories burnt based on your activity data.
 
 Or scan the QR code below:
 
-[![Demo QR](karthik-vana.png)
+<img src="karthik-vana.png" alt="Scan for Live Demo" width="200">
+
 
 
 ## 📊 Project Overview
