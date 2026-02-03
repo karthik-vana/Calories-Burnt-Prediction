@@ -1,0 +1,26 @@
+# =====================================================
+# CALORIES BURNT PREDICTION PROJECT - REQUIREMENTS
+# =====================================================
+# 
+# This file lists all Python packages needed for this project.
+# Install all packages using: pip install -r requirements.txt
+#
+# =====================================================
+
+# Data Manipulation and Analysis
+pandas>=2.0.0                  # For reading CSV files and data manipulation
+numpy>=1.24.0                  # For numerical computations
+
+# Data Visualization
+matplotlib>=3.7.0              # For creating plots and charts
+seaborn>=0.12.0               # For statistical data visualization
+
+# Machine Learning
+scikit-learn>=1.3.0           # For ML models (RandomForest, LinearRegression, etc.)
+
+# Web Application
+streamlit>=1.28.0             # For creating the web app interface
+
+# Jupyter Notebook (optional - for running .ipynb files)
+jupyter>=1.0.0                # For running Jupyter notebooks
+notebook>=7.0.0               # Jupyter notebook interface
