@@ -11,16 +11,12 @@ A Machine Learning project that predicts the number of calories burnt during exe
 ---
 # Calories Burnt Prediction 🔥
 
-This app predicts calories burnt based on your activity data.
+This app predicts calories burned based on your activity data.
 
 ## 🚀 Live Demo
-👉 [Click Here to Try](https://calories-burnt-prediction-1.streamlit.app/)
+ 👉 [Click Here to Try](https://calories-burnt-prediction-1.streamlit.app/)
 
-Or scan the QR code below:
-
-<img src="karthik-vana.png" alt="Scan for Live Demo" width="200">
-
-
+---
 
 ## 📊 Project Overview
 
@@ -214,6 +210,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ### Karthik Vana
 
+#scan the QR code below:
+
+<img src="karthik-vana.png" alt="Scan for Live Demo" width="200">
+
 **Data Science Enthusiast | Machine Learning Engineer | AI Engineer**
 
 *Building practical ML solutions for real-world problems*
@@ -227,12 +227,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Made with ❤️ and Python**
 
+⭐ *Star this repository if you found it helpful!* ⭐
+
 *Last Updated: December 2025*
-<div></div> 
-## 📞 Contact
-
-If you have any questions or suggestions, feel free to open an issue!
-
----
-
-⭐ **Star this repository if you found it helpful!** ⭐
+<div></div>
